@@ -1,0 +1,22 @@
+Cereal,Manufacturer,Type,Calories,Protein,Fat,Sodium,Fiber,Carbohydrates,Sugars,Shelf,Potassium,Vitamins,Weight,Cups
+Cocoa Puffs,G,C,110,1,1,180,0,12,13,2,55,25,1,1
+Count Chocula,G,C,110,1,1,180,0,12,13,2,65,25,1,1
+Lucky Charms,G,C,110,2,1,180,0,12,12,2,55,25,1,1
+Total Raisin Bran,G,C,140,3,1,190,4,15,14,3,230,100,1.5,1
+Trix,G,C,110,1,1,140,0,13,12,2,25,25,1,1
+Apple Jacks,K,C,110,2,0,125,1,11,14,2,30,25,1,1
+Corn Pops,K,C,110,1,0,90,1,13,12,2,20,25,1,1
+Froot Loops,K,C,110,2,1,125,1,11,13,2,30,25,1,1
+Frosted Flakes,K,C,110,1,0,200,1,14,11,1,25,25,1,0.75
+Fruitful Bran,K,C,120,3,0,240,5,14,12,3,190,25,1.33,0.67
+Mueslix Crispy Blend,K,C,160,3,2,150,3,17,13,3,160,25,1.5,0.67
+Raisin Bran,K,C,120,3,1,210,5,14,12,2,240,25,1.33,0.75
+Smacks,K,C,110,2,1,70,1,9,15,2,40,25,1,0.75
+Fruity Pebbles,P,C,110,1,1,135,0,13,12,2,25,25,1,0.75
+Golden Crisp,P,C,100,2,0,45,0,11,15,1,40,25,1,0.88
+Honey-comb,P,C,110,1,0,180,0,14,11,1,35,25,1,1.33
+Post Nat. Raisin Bran,P,C,120,3,1,200,6,11,14,3,260,25,1.33,0.67
+Cap'n'Crunch,Q,C,120,1,2,220,0,12,12,2,35,25,1,0.75
+Honey Graham Ohs,Q,C,120,1,2,220,1,12,11,2,45,25,1,1
+"Muesli Raisins, Dates, & Almonds",R,C,150,4,3,95,3,16,11,3,170,25,-1,-1
+"Muesli Raisins, Peaches, & Pecans",R,C,150,4,3,150,3,16,11,3,170,25,-1,-1

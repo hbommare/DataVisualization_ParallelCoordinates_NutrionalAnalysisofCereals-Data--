@@ -1,0 +1,78 @@
+Cereal,Manufacturer,Type,Calories,Protein,Fat,Sodium,Fiber,Carbohydrates,Sugars,Shelf,Potassium,Vitamins,Weight,Cups,CAL CAT,CARB CAT
+Apple Cinnamon Cheerios,G,C,110,2,2,180,1.5,10.5,10,1,70,25,1,0.75,B,A
+Basic 4,G,C,130,3,2,210,2,18,8,3,100,25,1.33,0.75,C,B
+Cheerios,G,C,110,6,2,290,2,17,1,1,105,25,1,1.25,B,B
+Cinnamon Toast Crunch,G,C,120,1,3,210,0,13,9,2,45,25,1,0.75,B,A
+Clusters,G,C,110,3,2,140,2,13,7,3,105,25,1,0.5,B,A
+Cocoa Puffs,G,C,110,1,1,180,0,12,13,2,55,25,1,1,B,A
+Count Chocula,G,C,110,1,1,180,0,12,13,2,65,25,1,1,B,A
+Crispy Wheat & Raisins,G,C,100,2,1,140,2,11,10,3,120,25,1,0.75,B,A
+Golden Grahams,G,C,110,1,1,280,0,15,9,2,45,25,1,0.75,B,A
+Honey Nut Cheerios,G,C,110,3,1,250,1.5,11.5,10,1,90,25,1,0.75,B,A
+Kix,G,C,110,2,1,260,0,21,3,2,40,25,1,1.5,B,B
+Lucky Charms,G,C,110,2,1,180,0,12,12,2,55,25,1,1,B,A
+Multi-Grain Cheerios,G,C,100,2,1,220,2,15,6,1,90,25,1,1,B,A
+Oatmeal Raisin Crisp,G,C,130,3,2,170,1.5,13.5,10,3,120,25,1.25,0.5,C ,A
+Raisin Nut Bran,G,C,100,3,2,140,2.5,10.5,8,3,140,25,1,0.5,B,A
+Total Corn Flakes,G,C,110,2,1,200,0,21,3,3,35,100,1,1,B,B
+Total Raisin Bran,G,C,140,3,1,190,4,15,14,3,230,100,1.5,1,C,A
+Total Whole Grain,G,C,100,3,1,200,3,16,3,3,110,100,1,1,B,B
+Triples,G,C,110,2,1,250,0,21,3,3,60,25,1,0.75,B,B
+Trix,G,C,110,1,1,140,0,13,12,2,25,25,1,1,B,A
+Wheaties,G,C,100,3,1,200,3,17,3,1,110,25,1,1,B,B
+Wheaties Honey Gold,G,C,110,2,1,200,1,16,8,1,60,25,1,0.75,B,B
+All-Bran,K,C,70,4,1,260,9,7,5,3,320,25,1,0.33,A,A
+All-Bran with Extra Fiber,K,C,50,4,0,140,14,8,0,3,330,25,1,0.5,A,A
+Apple Jacks,K,C,110,2,0,125,1,11,14,2,30,25,1,1,B,A
+Corn Flakes,K,C,100,2,0,290,1,21,2,1,35,25,1,1,B,B
+Corn Pops,K,C,110,1,0,90,1,13,12,2,20,25,1,1,B,A
+Cracklin' Oat Bran,K,C,110,3,3,140,4,10,7,3,160,25,1,0.5,B,A
+Crispix,K,C,110,2,0,220,1,21,3,3,30,25,1,1,B,B
+Froot Loops,K,C,110,2,1,125,1,11,13,2,30,25,1,1,B,A
+Frosted Flakes,K,C,110,1,0,200,1,14,11,1,25,25,1,0.75,B,A
+Frosted Mini-Wheats,K,C,100,3,0,0,3,14,7,2,100,25,1,0.8,B,A
+Fruitful Bran,K,C,120,3,0,240,5,14,12,3,190,25,1.33,0.67,B,A
+Just Right Crunchy  Nuggets,K,C,110,2,1,170,1,17,6,3,60,100,1,-1,B,B
+Just Right Fruit & Nut,K,C,140,3,1,170,2,20,9,3,95,100,1.3,0.75,C,B
+Mueslix Crispy Blend,K,C,160,3,2,150,3,17,13,3,160,25,1.5,0.67,C,B
+Nut&Honey Crunch,K,C,120,2,1,190,0,15,9,2,40,25,1,0.67,B,A
+Nutri-Grain Almond-Raisin,K,C,140,3,2,220,3,21,7,3,130,25,1.33,0.67,C,B
+Nutri-grain Wheat,K,C,90,3,0,170,3,18,2,3,90,25,1,-1,A,B
+Product 19,K,C,100,3,0,320,1,20,3,3,45,100,1,1,B,B
+Raisin Bran,K,C,120,3,1,210,5,14,12,2,240,25,1.33,0.75,B,A
+Raisin Squares,K,C,90,2,0,0,2,15,6,3,110,25,1,0.5,A,A
+Rice Krispies,K,C,110,2,0,290,0,22,3,1,35,25,1,1,B,B
+Smacks,K,C,110,2,1,70,1,9,15,2,40,25,1,0.75,B,A
+Special K,K,C,110,6,0,230,1,16,3,1,55,25,1,1,B,B
+100% Bran,N,C,70,4,1,130,10,5,6,3,280,25,1,0.33,A,A
+Shredded Wheat,N,C,80,2,0,0,3,16,0,1,95,0,0.83,-1,A,B
+Shredded Wheat 'n'Bran,N,C,90,3,0,0,4,19,0,1,140,0,1,0.67,A,B
+Shredded Wheat spoon size,N,C,90,3,0,0,3,20,0,1,120,0,1,0.67,A,B
+Strawberry Fruit Wheats,N,C,90,2,0,15,3,15,5,2,90,25,1,-1,A,A
+Bran Flakes,P,C,90,3,0,210,5,13,5,3,190,25,1,0.67,A,A
+"Fruit & Fibre Dates, Walnuts, and Oats",P,C,120,3,2,160,5,12,10,3,200,25,1.25,0.67,B,A
+Fruity Pebbles,P,C,110,1,1,135,0,13,12,2,25,25,1,0.75,B,A
+Golden Crisp,P,C,100,2,0,45,0,11,15,1,40,25,1,0.88,B,A
+Grape Nuts Flakes,P,C,100,3,1,140,3,15,5,3,85,25,1,0.88,B,A
+Grape-Nuts,P,C,110,3,0,170,3,17,3,3,90,25,1,0.25,B,B
+Great Grains Pecan,P,C,120,3,3,75,3,13,4,3,100,25,1,0.33,B,A
+Honey-comb,P,C,110,1,0,180,0,14,11,1,35,25,1,1.33,B,A
+Post Nat. Raisin Bran,P,C,120,3,1,200,6,11,14,3,260,25,1.33,0.67,B,A
+100% Natural Bran,Q,C,120,3,5,15,2,8,8,3,135,0,1,-1,B,A
+Cap'n'Crunch,Q,C,120,1,2,220,0,12,12,2,35,25,1,0.75,B,A
+Honey Graham Ohs,Q,C,120,1,2,220,1,12,11,2,45,25,1,1,B,A
+Life,Q,C,100,4,2,150,2,12,6,2,95,25,1,0.67,B,A
+Puffed Rice,Q,C,50,1,0,0,0,13,0,3,15,0,0.5,1,A,A
+Puffed Wheat,Q,C,50,2,0,0,1,10,0,3,50,0,0.5,-1,A,A
+Quaker Oat Squares,Q,C,100,4,1,135,2,14,6,3,110,25,1,0.5,B,A
+Almond Delight,R,C,110,2,2,200,1,14,8,3,-1,25,1,0.75,B,A
+Bran Chex,R,C,90,2,1,200,4,15,6,1,125,25,1,0.67,A,A
+Corn Chex,R,C,110,2,0,280,0,22,3,1,25,25,1,1,B,B
+Double Chex,R,C,100,2,0,190,1,18,5,3,80,25,1,0.75,B,B
+"Muesli Raisins, Dates, & Almonds",R,C,150,4,3,95,3,16,11,3,170,25,-1,-1,C,B
+"Muesli Raisins, Peaches, & Pecans",R,C,150,4,3,150,3,16,11,3,170,25,-1,-1,C,B
+Rice Chex,R,C,110,1,0,240,0,23,2,1,30,25,1,1.13,B,B
+Wheat Chex,R,C,100,3,1,230,3,17,3,1,115,25,1,0.67,B,B
+Maypo,A,H,100,4,1,0,0,16,3,2,95,25,1,-1,B,B
+Cream of Wheat (Quick),N,H,100,3,0,80,1,21,0,2,-1,0,1,1,B,B
+Quaker Oatmeal,Q,H,100,5,2,0,2.7,-1,-1,1,110,0,1,0.67,B,B
